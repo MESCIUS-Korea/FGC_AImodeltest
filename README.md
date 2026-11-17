@@ -6,10 +6,7 @@ Forguncy V12의 **AI 도우미 명령**으로 만든 AI 모델 비교 샘플 앱
 > A Forguncy V12 sample app that compares Claude, GPT, and Gemini on the same task. It classifies 20 customer inquiries with each model and shows accuracy and response time side by side, built with no code.
 
 🔗 **데모**: https://demo.forguncy.co.kr/ai_model_test
-📝 **블로그**: 【블로그 글 링크】
 
-![결과 화면](docs/screenshot.png)
-<!-- 결과 페이지 캡처를 docs/screenshot.png 로 추가하세요 -->
 
 ---
 
