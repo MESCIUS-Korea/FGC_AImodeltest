@@ -105,6 +105,3 @@ API 키 발급 방법은 아래 가이드를 참고하세요.
 - [런타임 AI (Forguncy V12 문서)](https://doc.forguncy.co.kr/forguncy/v12/docs/ai/runtime-ai)
 - [AI 도우미 명령 (Forguncy V12 문서)](https://doc.forguncy.co.kr/forguncy/v12/docs/ai/runtime-ai/ai-assistant-command)
 
-## 라이선스
-
-【라이선스 정보】
